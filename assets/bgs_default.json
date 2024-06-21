@@ -1,0 +1,40 @@
+{
+  "bgs": [
+    {
+      "id": "BG0001",
+      "name": "Устройство 01",
+      "description": "",
+      "start_power": 1,
+      "power": 20,
+      "frequency": 120,
+      "am": false,
+      "am_mode": 1,
+      "intensity": 1,
+      "fm": false
+    },
+    {
+      "id": "BG0002",
+      "name": "Устройство 02",
+      "description": "",
+      "start_power": 1,
+      "power": 30,
+      "frequency": 120,
+      "am": false,
+      "am_mode": 1,
+      "intensity": 1,
+      "fm": true
+    },
+    {
+      "id": "BG0003",
+      "name": "Устройство 03",
+      "description": "",
+      "start_power": 5,
+      "power": 35,
+      "frequency": 90,
+      "am": true,
+      "am_mode": 1,
+      "intensity": 1,
+      "fm": false
+    }
+  ]
+}

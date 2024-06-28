@@ -5,6 +5,11 @@ final darkTheme = ThemeData(
     useMaterial3: true,
     scaffoldBackgroundColor: Colors.black,
     dividerColor: Colors.white10,
+    popupMenuTheme: const PopupMenuThemeData(
+      iconColor: Colors.yellowAccent,
+      color: Colors.white24,
+//      textStyle: TextStyle(color: Colors.yellowAccent, fontSize: 20, fontWeight: FontWeight.w700)
+    ),
     appBarTheme: const AppBarTheme(
         backgroundColor: Colors.black,
         elevation: 0,

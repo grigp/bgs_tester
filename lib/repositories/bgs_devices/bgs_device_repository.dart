@@ -16,7 +16,7 @@ class BgsDeviceRepository implements AbstractBgsRepository {
     final data = await rootBundle.loadString("assets/bgs_default.json");
 
     // final all = await json.decode(data.toString()).toString();
-    // //const all = "Привет!";
+    // const all = "Привет!";
     // File file = File("bgs_list.json");
     // await file.writeAsString(all);
 
